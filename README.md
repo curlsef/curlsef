@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any python, java, or c++ projects.
 - 📫 How to reach me ysmetwaly@gmail.com or my discord @curlsef
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 🤷🏻‍♂️
 
 <!---
 curlsef/curlsef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
